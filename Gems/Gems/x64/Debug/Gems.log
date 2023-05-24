@@ -1,6 +1,0 @@
-﻿  Gem.cpp
-C:\Users\Kurai\source\repos\Gems\Gems\Gem.h(40,22): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\Kurai\source\repos\Gems\Gems\Gem.cpp(4,40): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
-C:\Users\Kurai\source\repos\Gems\Gems\Gem.cpp(5,32): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
-C:\Users\Kurai\source\repos\Gems\Gems\Gem.cpp(161,32): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
-  Gems.vcxproj -> C:\Users\Kurai\source\repos\Gems\x64\Debug\Gems.exe
